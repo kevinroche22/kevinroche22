@@ -12,14 +12,14 @@ Want to connect? Reach out to me on [![LinkedIn][1.2]][1].
 ## Github Stats
 
 <a href="https://github.com/kevinroche22/kevinroche22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinroche22&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinroche22&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="200"/>
 </a>
 <a href="https://github.com/kevinroche22/kevinroche22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinroche22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kevin's GitHub Stats" height="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinroche22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kevin's GitHub Stats" height="200"/>
 </a>
 
 <!-- Reference objects -->
 
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://www.pngegg.com/en/png-dgvuq
 [1]: https://www.linkedin.com/in/kevin-roche-397415b3/
 
