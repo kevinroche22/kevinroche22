@@ -7,7 +7,7 @@ Welcome to my github - here's a little background about me:
 - **Skills:** Proficient programming in R and SQL. Currently learning Python, with plans to learn Microsoft Azure afterwards.
 - **Hobbies:** Washed up basketball player turned below-average golfer.
 
-Want to connect? Reach out to me on [![LinkedIn][1.2]][1].
+Want to connect? Reach out to me on [![LinkedIn][1.2] = 10x10][1].
 
 ## Github Stats
 
