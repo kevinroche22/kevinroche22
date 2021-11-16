@@ -20,6 +20,6 @@ Want to connect? Reach out to me on [![LinkedIn][1.2]][1].
 
 <!-- Reference objects -->
 
-[1.2]: https://www.pngegg.com/en/png-dgvuq
+[1.2]: https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png
 [1]: https://www.linkedin.com/in/kevin-roche-397415b3/
 
