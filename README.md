@@ -20,6 +20,6 @@ Want to connect? Reach out to me on [![LinkedIn][1.2]][1].
 
 <!-- Reference objects -->
 
-[1.2]: https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png
+[1.2]: https://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Linkedin-icon.png
 [1]: https://www.linkedin.com/in/kevin-roche-397415b3/
 
