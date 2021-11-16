@@ -9,4 +9,4 @@ Welcome to my github - here's a little background about me:
 
 Want to connect? Reach out to me on LinkedIn:
 
-![https://www.linkedin.com/in/kevin-roche-397415b3/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)(https://www.linkedin.com/in/kevin-roche-397415b3/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kevin-roche-397415b3/)
