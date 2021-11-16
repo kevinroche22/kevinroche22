@@ -7,7 +7,7 @@ Welcome to my github - here's a little background about me:
 - **Skills:** Proficient programming in R and SQL. Currently learning Python, with plans to learn Microsoft Azure afterwards.
 - **Hobbies:** Washed up basketball player turned below-average golfer.
 
-Want to connect? Reach out to me on [![LinkedIn][1.2]][1].
+Want to connect? Reach out to me on [LinkedIn.](https://www.linkedin.com/in/kevin-roche-397415b3/)
 
 ## Github Stats
 
@@ -18,8 +18,4 @@ Want to connect? Reach out to me on [![LinkedIn][1.2]][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinroche22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kevin's GitHub Stats" height="200"/>
 </a>
 
-<!-- Reference objects -->
-
-[1.2]: https://www.coolfreecv.com/images/icon/in0C53A4.png
-[1]: https://www.linkedin.com/in/kevin-roche-397415b3/
 
