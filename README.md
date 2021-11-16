@@ -20,6 +20,6 @@ Want to connect? Reach out to me on [![LinkedIn][1.2]][1].
 
 <!-- Reference objects -->
 
-[1.2]: <img src=https://www.coolfreecv.com/images/icon/in0C53A4.png height = "10">
+[1.2]: <img src="https://www.coolfreecv.com/images/icon/in0C53A4.png" height = "10" />
 [1]: https://www.linkedin.com/in/kevin-roche-397415b3/
 
