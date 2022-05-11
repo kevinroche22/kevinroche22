@@ -2,9 +2,9 @@
 
 Welcome to my github - here's a little background about me:
 
-- **Current Role:** Data Analyst IV at Statistics Canada, where I'm building predictive models to improve the Consumer Price Index.
+- **Current Role:** Data Scientist at Statistics Canada, where I'm building predictive models to improve the Consumer Price Index.
 - **Education:** Master's degree in Economics from McMaster University.
-- **Skills:** Proficient programming in R with a strong foundation in SQL. Currently learning Python, with plans to learn Microsoft Azure afterwards.
+- **Skills:** Proficient programming in R with a strong foundation in SQL. Working knowledge of Python, with plans to expand into cloud technologies after.
 - **Hobbies:** Washed up basketball player turned below-average golfer.
 
 Want to connect? Reach out to me on [LinkedIn.](https://www.linkedin.com/in/kevin-roche-397415b3/)
