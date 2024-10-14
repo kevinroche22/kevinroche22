@@ -4,7 +4,7 @@ Welcome to my github - here's a little background about me:
 
 - **Education:** Master's degree in Economics from McMaster University.
 - **Hobbies:** Washed up basketball player turned below-average golfer.
-- **Current Role/Skillset**: See my [LinkedIn.](https://www.linkedin.com/in/kevin-roche-397415b3/) This page is for personal projects, and isn't kept up to date.
+- **Current Role/Skillset**: See my [LinkedIn.](https://www.linkedin.com/in/kevin-r-397415b3/) This page is for personal projects, and isn't kept up to date.
 
 ## Github Stats
 
